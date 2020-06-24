@@ -1,0 +1,2 @@
+rootProject.name='TappyDefender1'
+include ':app'
